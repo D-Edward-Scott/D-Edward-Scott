@@ -22,7 +22,9 @@
 <details>
 <summary>Other Certs</summary>
 <br>
-
+    
+  - **C#:**
+     - Foundational C# with Microsoft.
   - **CompTIA:** 
      - A+ Core 1, and Core 2.
   - **Fortinet:** 
